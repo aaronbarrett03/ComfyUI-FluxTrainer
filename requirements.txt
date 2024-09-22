@@ -21,3 +21,5 @@ matplotlib
 # for T5XXL tokenizer (SD3/FLUX)
 sentencepiece>=0.2.0
 protobuf
+
+schedulefree>=1.2.7
